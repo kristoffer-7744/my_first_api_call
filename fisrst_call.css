@@ -1,0 +1,14 @@
+/*Created by krishna irmalwar*/
+body{
+    text-align: center;
+    color: grey;
+    background-color: black;
+}
+li{
+    text-align: auto;
+    background-color: grey;
+    color: #000;
+    border-radius: 20px;
+    padding: 12px;
+    margin: 10px;
+}
